@@ -6,9 +6,9 @@ __Function Script__
 - requirements.txt
 
 __Shell script__
-Name: call_func_zipcode.sh<br>
-Parameter: Japan Zipcode (One 7-digit number)<br>
-Example: call_oci_func_zipcode.sh 1070061<br>
+- Name: call_func_zipcode.sh
+- Parameter: Japan Zipcode (One 7-digit number)
+- Example: call_oci_func_zipcode.sh 1070061
 
 __JSON File__
-Name: zipcode-jp.json<br>
+- Name: zipcode-jp.json
