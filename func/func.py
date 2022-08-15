@@ -67,7 +67,7 @@ def get_address(bucketName, objectName, zipcode):
 
                 message = "{" + address + "}\n"
                 print(message, flush=True)
-        else
+        else:
             print("Object " + objectName + " was not found.", flush=True)
     except Exception as e:
         message = '{"Message": "Failed: ' + str(e.message) + '"}\n'
