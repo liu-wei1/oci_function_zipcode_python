@@ -1,11 +1,14 @@
 # oci_function_zipcode_python
 
-__func.py__
-__func.yaml__
-__requirements.txt__
+__Function Script__
+- func.py
+- func.yaml
+- requirements.txt
 
-__Shell script: call_func_zipcode.sh__
+__Shell script__
+Name: call_func_zipcode.sh<br>
 Parameter: Japan Zipcode (One 7-digit number)<br>
 Example: call_oci_func_zipcode.sh 1070061<br>
 
-__JSON File: zipcode-jp.json__
+__JSON File__
+Name: zipcode-jp.json<br>
