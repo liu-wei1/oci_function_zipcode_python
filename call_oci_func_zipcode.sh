@@ -6,6 +6,8 @@
 # Example:   call_oci_func_zipcode.sh 1070061
 # Output:    Address in JSON format
 #
+# Please note that this sample is supposed to be used as a Demo only!
+#
 # Copyright (c) 2022, Oracle and/or its affiliates.  All rights reserved.
 # Licensed under the Universal Permissive License (UPL) Version 1.0 as shown at https://oss.oracle.com/licenses/upl.
 
